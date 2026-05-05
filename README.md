@@ -51,7 +51,6 @@ The dashboard includes:
  Python : https://docs.google.com/document/d/1idEFQvQYACw-G_jOfJcKBzEGnYonnIOCr5SPa2Th9hg/edit?usp=sharing
 
  Power BI : https://docs.google.com/document/d/1rpXelnjCNyU8Z4UPFSlxMBEz4a1DagFFfTipfztrtjQ/edit?usp=sharing
- Electric_Vehicle_Population_Data.ipynb
  
 ---
 
